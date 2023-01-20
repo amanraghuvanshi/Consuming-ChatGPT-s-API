@@ -6,9 +6,9 @@ This tools will again take the API key but instead of using joho/godotenv we wil
 
 Configiure your go mod file using > go mod init <filename>
 and then set it up using 
-> go get  github.com/PullRequestInc/go-gpt3
-> go get github.com/spf13/viper
-> go get github.com/spf13/cobra
+> go get  github.com/PullRequestInc/go-gpt3 <br>
+> go get github.com/spf13/viper <br>
+> go get github.com/spf13/cobra <br>
 
 
 After performing these stuffs we will start working on the function were we would be taking the input from the user for the search request
