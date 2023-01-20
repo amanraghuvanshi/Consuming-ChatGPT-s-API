@@ -4,6 +4,9 @@ THis is a CLI tool that interacts directly with the ChatGPT SERVERS.
 
 This tools will again take the API key but instead of using joho/godotenv we will be using the Viper and Cobra from spf13. 
 
+Configiure your go mod file using > go mod init <filename>
+and then set it up using 
+> go get  github.com/PullRequestInc/go-gpt3
 > go get github.com/spf13/viper
 > go get github.com/spf13/cobra
 
